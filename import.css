@@ -1,0 +1,5 @@
+/*import part of several individual css file
+css can be overwrite with new code
+Recommend to have individual css file*/
+@import "file.css"
+
