@@ -1,0 +1,12 @@
+/*class or id used in css must be declared in html
+file for it to take effect and asterisk can
+be used to select all in html or 
+items like h1 or h2 will be applied to all
+or specfic element of course it must be defined
+in css first then declare in html
+for example input check(box) or ul li first child
+it would be selected on the first one on the list
+*/
+.class1 {
+    background-color: yellow;
+}
